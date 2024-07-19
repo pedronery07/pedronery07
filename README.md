@@ -8,9 +8,8 @@
 
 # 📝 About Me:
 
-- 🎓 I'm currently in my fourth semester as a Computer Engineering student at Insper, São Paulo (Brazil)  
-- 🔭 I’m currently working on a Web Development project with [@antoniolma](https://github.com/antoniolma) in two separate repositories: [Frontend](https://github.com/insper-tecnologias-web/projeto-2-frontend-Neronio) and [Backend](https://github.com/insper-tecnologias-web/projeto-2-backend-Neronio)
-   - Deploy of the finished project (available for a limited period of time) => https://projeto-2-frontend-neronio.onrender.com
+- 🎓 I'm currently in my fifth semester as a Computer Engineering student at Insper, São Paulo (Brazil)  
+- 🔭 I’m currently working on a Web Development project with [@antoniolma](https://github.com/antoniolma).
 - 🌱 I’m currently enhancing my knowledge of **React.js and Django**
 - 📫 How to reach me: **pedronas1201@gmail.com**
 
