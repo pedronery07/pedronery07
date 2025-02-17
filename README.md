@@ -9,9 +9,9 @@
 # 📝 About Me:
 
 - 🎓 I'm currently in my sixth semester as a Computer Engineering student at Insper, São Paulo (Brazil)
-<!--- 🔭 I’m currently working on a Web Development project with [@antoniolma](https://github.com/antoniolma).-->
 - 🌱 I’m currently enhancing my knowledge of **Data Science and Data Engineering**
 - 📫 How to reach me: **pedronas1201@gmail.com**
+<!--- 🔭 I’m currently working on a Web Development project with [@antoniolma](https://github.com/antoniolma).-->
 
 <h3 align="left"> 🌐 Feel free to connect with me:</h3>
 <p align="left">
