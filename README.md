@@ -29,8 +29,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
-
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pedronery07&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedronery07&&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
