@@ -8,10 +8,10 @@
 
 # 📝 About Me:
 
-- 🎓 I'm currently in my sixth semester as a Computer Engineering student at Insper, São Paulo (Brazil)
+- 🎓 I'm currently in my eighth semester as a Computer Engineering student at Insper, São Paulo (Brazil)
 - 🌱 I’m currently enhancing my knowledge of **Data Science and Data Engineering**
 - 📫 How to reach me: **pedronas1201@gmail.com**
-<!--- 🔭 I’m currently working on a Web Development project with [@antoniolma](https://github.com/antoniolma).-->
+- 🔭 Check out my <a href="https://pedronery.me" target="_blank">portfolio</a> to find out more about me!
 
 <h3 align="left"> 🌐 Feel free to connect with me:</h3>
 <p align="left">
