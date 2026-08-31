@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedronery07&show_icons=true&theme=default&hide_border=true" alt="Pedro's GitHub stats" height="165"/>
+  <img src="https://raw.githubusercontent.com/pedronery07/pedronery07/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Pedro's GitHub stats" height="200"/>
 </p>
 
 ## 🌐 Connect

@@ -1,4 +1,4 @@
-name: generate pacman contribution graph
+name: generate contribution graphs (snake + pacman)
 
 on:
   schedule:
@@ -15,14 +15,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: generate contribution graph SVGs
+      - name: generate snake graph
+        uses: Platane/snk@v3
+        id: snake-graph
+        with:
+          github_user_name: pedronery07
+          outputs: |
+            dist/snake-contribution-graph.svg
+            dist/snake-contribution-graph-dark.svg?palette=github-dark
+
+      - name: generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: pedronery07
           # jogos disponíveis: pacman, breakout, galaga, puzzle-bobble, bomberman, minesweeper
           games: "pacman"
 
-      - name: push SVGs to the output branch
+      # ambas as actions acima escrevem em ./dist — um único push evita que
+      # os workflows se sobrescrevam ao publicar no branch `output`
+      - name: push graphs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
