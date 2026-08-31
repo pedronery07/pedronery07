@@ -48,6 +48,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/pedronery07/pedronery07/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Pedro's GitHub stats" height="200"/>
+  <img src="https://raw.githubusercontent.com/pedronery07/pedronery07/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Pedro's repos per language" height="200"/>
 </p>
 
 ## 🌐 Connect
