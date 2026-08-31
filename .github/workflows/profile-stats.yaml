@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # roda 1x por dia
   workflow_dispatch: # permite rodar manualmente
+  push:
+    branches:
+      - main
 
 jobs:
   build:

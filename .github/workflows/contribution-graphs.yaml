@@ -24,6 +24,12 @@ jobs:
             dist/snake-contribution-graph.svg
             dist/snake-contribution-graph-dark.svg?palette=github-dark
 
+      # Platane/snk roda em container Docker e deixa dist/ com dono root,
+      # o que impede a action seguinte (que roda como usuário comum) de
+      # escrever ali — corrigimos a permissão antes do próximo passo
+      - name: fix dist/ ownership
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
